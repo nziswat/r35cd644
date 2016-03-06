@@ -499,6 +499,6 @@ var/const
 #define DEFAULT_POOL_SIZE 50
 //#define DETAILED_POOL_STATS
 
-#define CDN_ENABLED 0
+#define CDN_ENABLED 1
 
 #define LOOC_RANGE 8
